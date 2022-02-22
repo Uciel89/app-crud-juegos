@@ -14,4 +14,7 @@ _Aplicación donde puede interactuar con las principales funciones de una base d
 * [Boostrap](https://getbootstrap.com/) - Frontend
 * [Angular](https://angular.io/) - Frameword para realizar el frontend
 
+ ## Creditos
  
+ _Para realizar esta proyecto utilize como guia el proyecto realizado por Fazt_
+ * [Video](https://www.youtube.com/watch?v=lxYB79ANJM8&t=10245s&ab_channel=Fazt)
