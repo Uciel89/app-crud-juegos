@@ -4,7 +4,7 @@ _Aplicación donde puede interactuar con las principales funciones de una base d
 ## Imagenes del proyecto 📷
 
 ![Imagen 1](https://github.com/Uciel89/AppCRUD/blob/main/client/src/assets/firs-slide.png)
-![Imagen 2](https://github.com/Uciel89/AppCRUD/blob/main/client/src/assets/firs-slide.png)
+![Imagen 2](https://github.com/Uciel89/AppCRUD/blob/main/client/src/assets/second-slide.png)
 
 ## Construido con 🛠️
 
