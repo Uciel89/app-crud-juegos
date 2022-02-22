@@ -16,5 +16,5 @@ _Aplicación donde puede interactuar con las principales funciones de una base d
 
  ## Creditos
  
- _Para realizar esta proyecto utilize como guia el proyecto realizado por Fazt_
+ _Para realizar esta proyecto utilize como guia el video realizado por Fazt_
  * [Video](https://www.youtube.com/watch?v=lxYB79ANJM8&t=10245s&ab_channel=Fazt)
