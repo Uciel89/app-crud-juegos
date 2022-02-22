@@ -3,7 +3,8 @@ _Aplicación donde puede interactuar con las principales funciones de una base d
 
 ## Imagenes del proyecto 📷
 
-![Imagen 1](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![Imagen 1](https://github.com/Uciel89/AppCRUD/blob/main/client/src/assets/firs-slide.png)
+![Imagen 2](https://github.com/Uciel89/AppCRUD/blob/main/client/src/assets/firs-slide.png)
 
 ## Construido con 🛠️
 
