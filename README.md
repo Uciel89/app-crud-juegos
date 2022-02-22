@@ -12,7 +12,7 @@ _Aplicación donde puede interactuar con las principales funciones de una base d
 * [Express](https://expressjs.com/es/) - Framework para lanzar el servidor de una manera mas sencilla y eficiente
 * [MySQL](https://www.mysql.com/) - Base de datos
 * [Boostrap](https://getbootstrap.com/) - Frontend
-* [Angular](https://angular.io/) - Frameword para realizar el frontend
+* [Angular](https://angular.io/) - Framework para realizar el frontend
 
  ## Creditos
  
